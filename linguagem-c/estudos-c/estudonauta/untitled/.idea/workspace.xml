@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="233e8a66-35e8-4302-ae4e-91416d6e173f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-233ff325bd5c46204bcc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-378cd7f2d3f9180d70a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7d49cd3ae8c9c281a11a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-01T17-24-22-0709.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/target-untitled-Debug-8b543750ce460da165b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a8964641c73b93ec9943.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/cmake-build-debug/untitled.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segundo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cc540a12502673886d92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-01T00-47-57-0164.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segundo/cmake-build-debug/segundo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../segundo/cmake-build-debug/segundo.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3" />
+    <option name="productBranch" value="Nova" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2aMYJBwKnsblkjtzGzDkkgVvWsY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "CMake Application.untitled.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="233e8a66-35e8-4302-ae4e-91416d6e173f" name="Changes" comment="" />
+      <created>1704129841308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704129841308</updated>
+      <workItem from="1704129844656" duration="1087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco9-operador-relacional/cmake-build-debug/CMakeFiles/bloco9_operador_relacional.dir
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco9-operador-relacional/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco9-operador-relacional/cmake-build-debug/CMakeFiles/rebuild_cache.dir

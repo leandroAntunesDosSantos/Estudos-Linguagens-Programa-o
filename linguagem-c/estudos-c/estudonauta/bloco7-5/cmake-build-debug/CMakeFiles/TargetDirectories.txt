@@ -1,0 +1,3 @@
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco7-5/cmake-build-debug/CMakeFiles/bloco7_5.dir
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco7-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco7-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

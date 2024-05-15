@@ -1,0 +1,3 @@
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco8-operadores-aritmeticos/cmake-build-debug/CMakeFiles/bloco8_operadores_aritmeticos.dir
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco8-operadores-aritmeticos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leandro/Documents/projetos-drive/trabalhos/cursoc/bloco8-operadores-aritmeticos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
