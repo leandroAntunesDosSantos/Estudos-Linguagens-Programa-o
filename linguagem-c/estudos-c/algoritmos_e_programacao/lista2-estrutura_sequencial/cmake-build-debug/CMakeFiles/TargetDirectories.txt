@@ -1,3 +1,0 @@
-/home/leandro/CLionProjects/lista2-estrutura_sequencial/cmake-build-debug/CMakeFiles/lista2_estrutura_sequencial.dir
-/home/leandro/CLionProjects/lista2-estrutura_sequencial/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/leandro/CLionProjects/lista2-estrutura_sequencial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

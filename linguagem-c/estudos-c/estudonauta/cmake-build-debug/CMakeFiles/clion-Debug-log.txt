@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\leand\OneDrive\Área de Trabalho\cursoc Select CMakeLists.txt
