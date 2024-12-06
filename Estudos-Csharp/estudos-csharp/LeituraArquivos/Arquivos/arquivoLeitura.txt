@@ -1,0 +1,3 @@
+lendo arquivo
+linha por linha
+no arquivo.txt

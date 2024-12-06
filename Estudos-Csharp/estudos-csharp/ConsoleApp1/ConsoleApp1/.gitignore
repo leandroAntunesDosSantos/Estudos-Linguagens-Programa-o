@@ -1,0 +1,42 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+.env.local
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore coverage reports
+coverage/
+.nyc_output/
+
+# Ignore dependency directories
+vendor/
+
+# Ignore binary files
+bin/
+
+# Ignore configuration files
+obj

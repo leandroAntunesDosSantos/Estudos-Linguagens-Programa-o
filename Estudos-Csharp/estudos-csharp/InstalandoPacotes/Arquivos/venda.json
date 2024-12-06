@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Macarrao instantaneo",
+    "Preco": 10.5,
+    "DataVenda": "2024-11-17T03:19:40.7330002-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Batata Frita",
+    "Preco": 20.5,
+    "DataVenda": "2024-11-17T03:19:40.7330002-03:00",
+    "Desconto": 10
+  }
+]
