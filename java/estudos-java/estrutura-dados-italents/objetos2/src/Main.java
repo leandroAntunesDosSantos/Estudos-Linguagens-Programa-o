@@ -1,15 +1,74 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+import java.util.Scanner;
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+class Pessoa {
+    private String nome;
+    private int idade;
+    private float peso;
+
+    public Pessoa(String nome, int idade, float peso) {
+        this.nome = nome;
+        this.idade = idade;
+        this.peso = peso;
+    }
+
+    public void exibirInfos() {
+        System.out.println("Nome: " + this.nome);
+        System.out.println("Idade: " + this.idade);
+        System.out.println("Peso: " + this.peso);
+    }
+
+    public void fazerAniversario() {
+        this.idade += 1;
+    }
+
+    //gets e sets
+    public String getNome() {
+        return this.nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public int getIdade() {
+        return this.idade;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
+
+    public float getPeso() {
+        return this.peso;
+    }
+
+    public void setPeso(float peso) {
+        this.peso = peso;
+    }
+
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        Pessoa pessoa = new Pessoa("João", 20, 70.5f);
+//        pessoa.exibirInfos();
+//        pessoa.fazerAniversario();
+//        pessoa.exibirInfos();
+
+//        pessoa.setNome("joãozinho");
+//        pessoa.setPeso(80.5f);
+//        pessoa.exibirInfos();
+
+        System.out.print("Digite o nome: ");
+        String nome = scanner.nextLine();
+        System.out.print("Digite a idade: ");
+        int idade = Integer.parseInt(scanner.nextLine());
+        System.out.print("Digite o peso: ");
+        float peso = Float.parseFloat(scanner.nextLine());
+
+        Pessoa pessoa2 = new Pessoa(nome, idade, peso);
+        pessoa2.exibirInfos();
+
+        scanner.close();
     }
 }
